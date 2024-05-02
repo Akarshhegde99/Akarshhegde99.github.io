@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Akarsh Hegde
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h4>Learning FrontEnd development | DSA with java</h4>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+- 🔭 I’m currently working on AI-ML Project@IEEE
+- 🌱 I’m always Interested to work on Mini Projects 
+- 💬 Ask me about programming & Tech Events
+- 📫 How to reach me: akarshhegde1001@gmail.com
+- ⚡ Education: I'm currently studying B.E in Information Science
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Akarshhegde99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
 
